@@ -1,2 +1,5 @@
 #this file tells you the files that you should ignore when committing. 
 #this file must be named ".gitignore"
+#after you create this file you can run "git add ." which will add all the files except for the ones listed in this file
+#for example, if I did not want to include index.html, I would write the following
+#index.html
